@@ -45,22 +45,22 @@ HTAG = Half Time Away Team Goals <i>(goli gostujoče ekipe v prvem polčasu)</i>
 HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win) <i>(rezultat polčasa)</i> <br>
 
 Referee = Match Referee <i>(sodnik tekme)</i> <br>
-HS = Home Team Shots <br>
-AS = Away Team Shots <br>
-HST = Home Team Shots on Target <br>
-AST = Away Team Shots on Target <br>
+HS = Home Team Shots <i>(streli domače ekipe)</i> <br>
+AS = Away Team Shots <i>(streli gostujoče ekipe)</i> <br>
+HST = Home Team Shots on Target <i>(streli domače ekipe na gol)</i> <br>
+AST = Away Team Shots on Target <i>(streli gostujoče ekipe na gol)</i> <br>
 HHW = Home Team Hit Woodwork <br>
 AHW = Away Team Hit Woodwork <br>
-HC = Home Team Corners <br>
-AC = Away Team Corners <br>
-HF = Home Team Fouls Committed <br>
-AF = Away Team Fouls Committed <br>
-HO = Home Team Offsides <br>
-AO = Away Team Offsides <br>
-HY = Home Team Yellow Cards <br>
-AY = Away Team Yellow Cards <br>
-HR = Home Team Red Cards <br>
-AR = Away Team Red Cards <br>
+HC = Home Team Corners <i>(koti domače ekipe)</i> <br>
+AC = Away Team Corners <i>(koti gostujoče ekipe)</i> <br>
+HF = Home Team Fouls Committed <i>(prekrški domače ekipe)</i> <br>
+AF = Away Team Fouls Committed <i>(prekrški domače ekipe)</i> <br>
+HO = Home Team Offsides <i>(ofsajdi domače ekipe)</i> <br>
+AO = Away Team Offsides <i>(ofsajdi gostujoče ekipe)</i> <br>
+HY = Home Team Yellow Cards <i>(rumene karte domače ekipe)</i> <br>
+AY = Away Team Yellow Cards <i>(rumene karte gostujoče ekipe)</i> <br>
+HR = Home Team Red Cards <i>(rdeče karte domače ekipe)</i> <br>
+AR = Away Team Red Cards <i>(rdeče karte gostujoče ekipe)</i> <br>
 HBP = Home Team Bookings Points (10 = yellow, 25 = red) <br>
 ABP = Away Team Bookings Points (10 = yellow, 25 = red) <br>
 
