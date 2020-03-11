@@ -28,8 +28,8 @@ V sklopu tega projekta bomo v ekipi analizirali podatke angleške prve nogometne
 <b> Podatki: </b><br>
 Podatke smo pridobili na naslednjih spletnih straneh: https://datahub.io/sports-data/english-premier-league, (možna uporaba) https://github.com/footballcsv/england, (možna uporaba) https://www.kaggle.com/thesiff/premierleague1819 .
 Podatki so shranjeni v csv formatu. V eni datoteki se nahaja 380 primerov z 65 atributi (ponekod manjkajo trije atributi stavnic).
-Podatkov iz stavnic je več kot jih potrebujemo, zato smo si izbrali samo prve 3: <b>B365</b>, <b>BS</b> in <b>BW</b>.
-Večina podatkov bomo črpali iz dataseta "english-premier-league" z datahuba:
+Podatkov iz stavnic je več kot jih potrebujemo, zato smo si izbrali samo prve 3: <b>B365</b>, <b>BS</b> in <b>BW</b>.<br>
+Večina podatkov bomo črpali iz dataseta "english-premier-league" z datahuba:<br>
 Pomen okrajšav:
 
 Div = League Division <i>(liga)</i> <br>
