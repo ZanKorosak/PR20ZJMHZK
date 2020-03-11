@@ -26,9 +26,10 @@ V sklopu tega projekta bomo v ekipi analizirali podatke angleške prve nogometne
    
    
 <b> Podatki: </b><br>
-Podatke smo pridobili na naslednji spletni strani: https://datahub.io/sports-data/english-premier-league .
+Podatke smo pridobili na naslednjih spletnih straneh: https://datahub.io/sports-data/english-premier-league, (možna uporaba) https://github.com/footballcsv/england, (možna uporaba) https://www.kaggle.com/thesiff/premierleague1819 .
 Podatki so shranjeni v csv formatu. V eni datoteki se nahaja 380 primerov z 65 atributi (ponekod manjkajo trije atributi stavnic).
-Podatkov iz stavnic je več kot jih potrebujemo, zato smo si izbrali samo prve 3. B365, BS in BW.
+Podatkov iz stavnic je več kot jih potrebujemo, zato smo si izbrali samo prve 3: <b>B365</b>, <b>BS</b> in <b>BW</b>.
+Večina podatkov bomo črpali iz dataseta "english-premier-league" z datahuba:
 Pomen okrajšav:
 
 Div = League Division <i>(liga)</i> <br>
@@ -38,27 +39,27 @@ AwayTeam = Away Team <i>(gostujoča ekipa)</i> <br>
 FTHG = Full Time Home Team Goals <i>(goli domače ekipe čez celotno tekmo)</i> <br>
 FTAG = Full Time Away Team Goals <i>(goli gostujoče ekipe čez celotno tekmo)</i> <br>
 FTR = Full Time Result (H=Home Win, D=Draw, A=Away Win) <i>(rezultat celotne igre)</i> <br>
-HTHG = Half Time Home Team Goals <i>(goli domače ekipe čez na polčas)</i> <br>
-HTAG = Half Time Away Team Goals <i>(goli gostujoče ekipe čez na polčas)</i> <br>
+HTHG = Half Time Home Team Goals <i>(goli domače ekipe v prvem polčasu)</i> <br>
+HTAG = Half Time Away Team Goals <i>(goli gostujoče ekipe v prvem polčasu)</i> <br>
 HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win) <i>(rezultat polčasa)</i> <br>
 
 Referee = Match Referee <i>(sodnik tekme)</i> <br>
-HS = Home Team Shots <i>(streli domače ekipe)</i> <br>
-AS = Away Team Shots <i>(streli gostujoče ekipe)</i> <br>
-HST = Home Team Shots on Target <i>(streli domače ekipe na gol)</i> <br>
-AST = Away Team Shots on Target <i>(streli gostujoče ekipe na gol)</i> <br>
+HS = Home Team Shots <br>
+AS = Away Team Shots <br>
+HST = Home Team Shots on Target <br>
+AST = Away Team Shots on Target <br>
 HHW = Home Team Hit Woodwork <br>
 AHW = Away Team Hit Woodwork <br>
-HC = Home Team Corners <i>(koti domače ekipe)</i> <br>
-AC = Away Team Corners <i>(koti gostujoče ekipe)</i> <br>
-HF = Home Team Fouls Committed <i>(prekrški domače ekipe)</i> <br>
-AF = Away Team Fouls Committed <i>(prekrški gostujoče ekipe)</i> <br>
-HO = Home Team Offsides <i>(ofsajdi domače ekipe)</i> <br>
-AO = Away Team Offsides <i>(ofsajdi gostujoče ekipe)</i> <br>
-HY = Home Team Yellow Cards <i>(rumene karte domače ekipe)</i> <br>
-AY = Away Team Yellow Cards <i>(rumene karte gostujoče ekipe)</i> <br>
-HR = Home Team Red Cards <i>(rdeče karte domače ekipe)</i> <br>
-AR = Away Team Red Cards <i>(rdeče karte gostujoče ekipe)</i> <br>
+HC = Home Team Corners <br>
+AC = Away Team Corners <br>
+HF = Home Team Fouls Committed <br>
+AF = Away Team Fouls Committed <br>
+HO = Home Team Offsides <br>
+AO = Away Team Offsides <br>
+HY = Home Team Yellow Cards <br>
+AY = Away Team Yellow Cards <br>
+HR = Home Team Red Cards <br>
+AR = Away Team Red Cards <br>
 HBP = Home Team Bookings Points (10 = yellow, 25 = red) <br>
 ABP = Away Team Bookings Points (10 = yellow, 25 = red) <br>
 
