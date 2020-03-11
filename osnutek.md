@@ -1,4 +1,5 @@
-V sklopu tega projekta bomo v ekipi analizirali podatke angleške prve nogometne lige skozi zadnjih 10 let. Osredotočili se bomo na nedavne sezone (18-19, 17-18) v katerih bomo analizirali podatke vseh tekem. <br>
+<b>Opis teme</b><br>
+V sklopu tega projekta bomo v ekipi analizirali podatke angleške prve nogometne lige skozi zadnjih 10 let. Osredotočili se bomo na nedavne sezone (18-19, 17-18) v katerih bomo analizirali podatke vseh tekem. <br> <br>
 <b>Splošni cilji: </b><br>
  <b>1. Analiza učinkovitosti ekip v sezoni 18/19 v primerjavi s 17/18, ter spremembe v stilu igranja: </b><br>
        a. Primerjava sprememb na lestvici skozi sezono v primerjavi s prejšnjo sezono. <br>
