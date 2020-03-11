@@ -19,13 +19,13 @@ V sklopu tega projekta bomo v ekipi analizirali podatke angleške prve nogometne
        c. Primerjava povprečij kvot ekip skozi leto z dejansko učinkovitostjo ekip. <br>
  <b>5. Napoved sezone 19/20: </b><br>
        a. Analiza trendov iz prejšnjih let npr. spremembe v prejetih/doseženih zadetkov, seštevku točk, pozicija na lestvici. <br>
-       b. Kreiranje in primerjava napovedane lestvice 19/20 sezone z aktualnim razpletom trenutne sezone (29/38 tekem trenutno odigranih). <br>
+       b. Kreiranje in primerjava napovedane lestvice 19/20 sezone z aktualnim razpletom trenutne sezone (29/38 tekem trenutno odigranih). <br><br>
    
    
    
    
    
-   
+<b> Podatki: </b><br>
 Podatke smo pridobili na naslednji spletni strani: https://datahub.io/sports-data/english-premier-league .
 Podatki so shranjeni v csv formatu. V eni datoteki se nahaja 380 primerov z 65 atributi (ponekod manjkajo trije atributi stavnic).
 Podatkov iz stavnic je preveliko, zato smo si izbrali samo prve 3. B365, BS in BW.
