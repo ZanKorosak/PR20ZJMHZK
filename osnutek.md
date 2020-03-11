@@ -32,15 +32,15 @@ Podatkov iz stavnic je preveliko, zato smo si izbrali samo prve 3. B365, BS in B
 Pomen okrajšav:
 
 Div = League Division <br>
-Date = Match Date (dd/mm/yy) (datum tekme) <br>
-HomeTeam = Home Team (domača ekipa) <br>
-AwayTeam = Away Team (gostujoča ekipa) <br>
-FTHG = Full Time Home Team Goals (goli domače ekipe čez celotno tekmo) <br>
-FTAG = Full Time Away Team Goals (goli gostujoče ekipe čez celotno tekmo) <br>
-FTR = Full Time Result (H=Home Win, D=Draw, A=Away Win) (rezultat celotne igre) <br>
-HTHG = Half Time Home Team Goals (goli domače ekipe čez na polčas) <br>
-HTAG = Half Time Away Team Goals (goli gostujoče ekipe čez na polčas) <br>
-HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win) (rezultat polčasa) <br>
+Date = Match Date (dd/mm/yy) <i>(datum tekme)</i> <br>
+HomeTeam = Home Team <i>(domača ekipa)</i> <br>
+AwayTeam = Away Team <i>(gostujoča ekipa)</i> <br>
+FTHG = Full Time Home Team Goals <i>(goli domače ekipe čez celotno tekmo)</i> <br>
+FTAG = Full Time Away Team Goals <i>(goli gostujoče ekipe čez celotno tekmo)</i> <br>
+FTR = Full Time Result (H=Home Win, D=Draw, A=Away Win) <i>(rezultat celotne igre)</i> <br>
+HTHG = Half Time Home Team Goals <i>(goli domače ekipe čez na polčas)</i> <br>
+HTAG = Half Time Away Team Goals <i>(goli gostujoče ekipe čez na polčas)</i> <br>
+HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win) <i>(rezultat polčasa)</i> <br>
 
 Referee = Match Referee <br>
 HS = Home Team Shots <br>
