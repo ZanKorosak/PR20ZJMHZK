@@ -33,14 +33,14 @@ Pomen okrajšav:
 
 Div = League Division <br>
 Date = Match Date (dd/mm/yy) (datum tekme) <br>
-HomeTeam = Home Team <br>
-AwayTeam = Away Team <br>
-FTHG = Full Time Home Team Goals <br>
-FTAG = Full Time Away Team Goals <br>
-FTR = Full Time Result (H=Home Win, D=Draw, A=Away Win) <br>
-HTHG = Half Time Home Team Goals <br>
-HTAG = Half Time Away Team Goals <br>
-HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win) <br>
+HomeTeam = Home Team (domača ekipa) <br>
+AwayTeam = Away Team (gostujoča ekipa) <br>
+FTHG = Full Time Home Team Goals (goli domače ekipe čez celotno tekmo) <br>
+FTAG = Full Time Away Team Goals (goli gostujoče ekipe čez celotno tekmo) <br>
+FTR = Full Time Result (H=Home Win, D=Draw, A=Away Win) (rezultat celotne igre) <br>
+HTHG = Half Time Home Team Goals (goli domače ekipe čez na polčas) <br>
+HTAG = Half Time Away Team Goals (goli gostujoče ekipe čez na polčas) <br>
+HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win) (rezultat polčasa) <br>
 
 Referee = Match Referee <br>
 HS = Home Team Shots <br>
