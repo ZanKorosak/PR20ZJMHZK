@@ -12,7 +12,7 @@ V sklopu tega projekta bomo v ekipi analizirali podatke angleške prve nogometne
  <b>3. Statistika uspehov/neuspehov ter presenečenj: </b><br>
        a. Iskanje največjih nogometnih dominanc npr. niz zaporednih zmaganih tekem, največje zmage na posamezni tekmi, forme ekip skozi             sezono. <br>
        b. Največji nogometni preobrati skozi sezono npr. vrnitev iz velikega zaostanka na posamezni tekmi <br>
-       c. Najboljša uvrstitev ekipe, ki je napredovala iz druge lige ter njihova durabilnost v ligi. <br>
+       c. Analiza ekip, ki so napredovale iz druge lige ter njihova durabilnost v ligi <br>
        d. Prikaz rekordov skozi sezone npr. skupne točke ob koncu sezone, najmanj prejetih, največ doseženih zadetkov. <br>
  <b>4. Analiza popularnih stavnic skozi sezono: </b><br>
        a. Prikaz največjih presenečenj skozi kvote na stavnicah. <br>
