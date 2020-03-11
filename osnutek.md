@@ -31,7 +31,7 @@ Podatki so shranjeni v csv formatu. V eni datoteki se nahaja 380 primerov z 65 a
 Podatkov iz stavnic je več kot jih potrebujemo, zato smo si izbrali samo prve 3. B365, BS in BW.
 Pomen okrajšav:
 
-Div = League Division <br>
+Div = League Division <i>(liga)</i> <br>
 Date = Match Date (dd/mm/yy) <i>(datum tekme)</i> <br>
 HomeTeam = Home Team <i>(domača ekipa)</i> <br>
 AwayTeam = Away Team <i>(gostujoča ekipa)</i> <br>
@@ -42,7 +42,7 @@ HTHG = Half Time Home Team Goals <i>(goli domače ekipe čez na polčas)</i> <br
 HTAG = Half Time Away Team Goals <i>(goli gostujoče ekipe čez na polčas)</i> <br>
 HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win) <i>(rezultat polčasa)</i> <br>
 
-Referee = Match Referee <br>
+Referee = Match Referee <i>(sodnik tekme)</i> <br>
 HS = Home Team Shots <br>
 AS = Away Team Shots <br>
 HST = Home Team Shots on Target <br>
