@@ -1,5 +1,5 @@
 V sklopu tega projekta bomo v ekipi analizirali podatke angleške prve nogometne lige skozi zadnjih 10 let. Osredotočili se bomo na nedavne sezone (18-19, 17-18) v katerih bomo analizirali podatke vseh tekem. <br>
-<b>Cilji: </b><br>
+<b>Splošni cilji: </b><br>
  <b>1. Analiza učinkovitosti ekip v sezoni 18/19 v primerjavi s 17/18, ter spremembe v stilu igranja: </b><br>
        a. Primerjava sprememb na lestvici skozi sezono v primerjavi s prejšnjo sezono. <br>
        b. Primerjava posesti ter storjenih prekšrkov proti prejšnji sezoni (sprememba v povprečjih). <br>
@@ -28,7 +28,7 @@ V sklopu tega projekta bomo v ekipi analizirali podatke angleške prve nogometne
 <b> Podatki: </b><br>
 Podatke smo pridobili na naslednji spletni strani: https://datahub.io/sports-data/english-premier-league .
 Podatki so shranjeni v csv formatu. V eni datoteki se nahaja 380 primerov z 65 atributi (ponekod manjkajo trije atributi stavnic).
-Podatkov iz stavnic je preveliko, zato smo si izbrali samo prve 3. B365, BS in BW.
+Podatkov iz stavnic je več kot jih potrebujemo, zato smo si izbrali samo prve 3. B365, BS in BW.
 Pomen okrajšav:
 
 Div = League Division <br>
