@@ -128,8 +128,8 @@ Nazadnje smo pa še prikazali kako pravilno so stavnice napovedovale rezultate s
 ![alt text](./images/slika5.png)
 
 ## Glavne ugotovitve
-  * Ugotovili smo  da povprečni sodnik sodi vsaki drugi teden, torej eno tekmo na dva tedna, iz česa lahko sklepamo, kateri sodniki so najbolj izkušeni ter morda tudi najbolj utrujeni, kar lahko kasneje povežemo z sojenjem bolj pomembnih tekem.
-  * Prav tako smo ugotovili kateri sodniki so bolj nagnjeni k tem da pustijo grobo igro, ter izkjučitvi igralcev, iz česa lahko izvemo da izkušeni sodniki večkrat izključijo igralce in tisti z manj izkušnjami veliko manj saj se morda bojijo.
+  * Ugotovili smo  da povprečni sodnik sodi vsaki drugi teden, torej eno tekmo na dva tedna, iz česar lahko sklepamo, kateri sodniki so najbolj izkušeni ter morda tudi najbolj utrujeni, kar lahko kasneje povežemo z sojenjem bolj pomembnih tekem.
+  * Ponazorili smo kateri sodniki so bolj nagnjeni k tem da pustijo grobo igro, ter izkjučitvi igralcev, iz česar lahko izvemo da izkušeni sodniki večkrat izključijo igralce in tisti z manj izkušnjami veliko manj saj se morda bojijo.
   * Iz grafov o stavnicah smo ugotovili kje se je najbolj splačalo staviti v sezoni 2018/2019 in katera stavnica se je najbolj približala dejanskim rezultatom.
 
 ## Cilji v prihodnosti
